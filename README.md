@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently a PhD student at the Otto-von-Guericke University Magdeburg (Germany) in the department of computer science, working mainly on Out-of-Distribution detection. 
+
 <!--
 **kkirchheim/kkirchheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
